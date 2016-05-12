@@ -3,6 +3,9 @@ SAS Token Generator for Azure IOT DeviceHub
 *  Generate IOT SAS Token
 *  Export Import via RegistryManager
 
+
+![](https://raw.githubusercontent.com/uneidel/IOTSASTokenGenerator/master/IOThubSASTokenGenerator.JPG)
+
 The MIT License (MIT)
 
 Copyright (c)2016 / uneidel
